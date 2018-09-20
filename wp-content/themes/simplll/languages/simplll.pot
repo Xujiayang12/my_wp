@@ -1,0 +1,204 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: simplll\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sat Mar 24 2018 18:05:59 GMT+0300 (Türkiye Standart "
+"Saati)\n"
+"POT-Revision-Date: Sat Mar 24 2018 23:57:38 GMT+0300 (Türkiye Standart "
+"Saati)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:17
+msgid "nothing here..."
+msgstr ""
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: ../404.php:33
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: ../comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: ../footer.php:18
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: ../footer.php:20
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: ../footer.php:25
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: ../functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:105
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:107
+msgid "Add widgets here."
+msgstr ""
+
+#: ../header.php:36
+msgid "Skip to content"
+msgstr ""
+
+#: ../header.php:53
+msgid "Menu"
+msgstr ""
+
+#: ../inc/customizer.php:49
+msgid "Body Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:56
+msgid "Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:63
+msgid "Link Color (on hover)"
+msgstr ""
+
+#: ../inc/customizer.php:108
+msgid "Typography"
+msgstr ""
+
+#: ../inc/customizer.php:124
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:58
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: ../inc/template-tags.php:70
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: ../inc/template-tags.php:87 ../template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: ../search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: ../template-parts/content-none.php:25
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:24 ../template-parts/content-single.php:44 .
+#: ./template-parts/content.php:47
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/content-single.php:33 ../template-parts/content.php:36
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Name of the theme
+msgid "simplll"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://themes.wpmagg.com/simplll/"
+msgstr ""
+
+#. Description of the theme
+msgid "a simple WordPress theme by wpmagg"
+msgstr ""
+
+#. Author of the theme
+msgid "wpmagg"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://wpmagg.com/"
+msgstr ""
