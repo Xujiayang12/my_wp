@@ -86,7 +86,7 @@ define('WP_DEBUG', false);
  * 可在设置→常规中修改。
  * 如需禁用，请移除或注释掉本行。
  */
-define('WP_ZH_CN_ICP_NUM', true);
+define('WP_ZH_CN_ICP_NUM', false);
 
 /* 好了！请不要再继续编辑。请保存本文件。使用愉快！ */
 
